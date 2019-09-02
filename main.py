@@ -1,3 +1,5 @@
+# main
+
 import gui
 
 WIDTH = 800

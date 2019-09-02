@@ -1,3 +1,5 @@
+# window class
+
 import tkinter as tk
 from tkinter import messagebox
 import objects
